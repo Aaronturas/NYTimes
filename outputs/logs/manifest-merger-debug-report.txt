@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/aaronturas/.gradle/caches/transforms-3/ae033c2ffd6a9372e984f2fcf605934e/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.6.0] /home/aaronturas/.gradle/caches/transforms-3/a85cf5f786302e7c88df88cb95731c2f/transformed/material-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/aaronturas/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.codepath.libraries:asynchttpclient:2.2.0] /home/aaronturas/.gradle/caches/transforms-3/bbfaf3812e5006159d1e33846030a17b/transformed/asynchttpclient-2.2.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /home/aaronturas/.gradle/caches/transforms-3/07c7f1074054558b72e7eb340ed69331/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/aaronturas/.gradle/caches/transforms-3/c270e62538eeddd5ebe1ba8e5cf6c0c7/transformed/glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /home/aaronturas/.gradle/caches/transforms-3/c1fddf7155d627511a2079516755d685/transformed/stetho-okhttp3-1.5.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/804df020b7620b490565a3aab0c66b91/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/aaronturas/.gradle/caches/transforms-3/b3aa350f4ac90edfb40e0da537b8925b/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/aaronturas/.gradle/caches/transforms-3/ae42faee643e370230ec532e9341306c/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/aaronturas/.gradle/caches/transforms-3/cda1d3a33cb9107cf1825fe282793c1f/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/8a43ea73af7a62a9f12fae4925d1fff8/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/aaronturas/.gradle/caches/transforms-3/c1e67adaf8e753ede21de05035a7ba1f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/42a1242bd9b281b95b98166e5c9d62ed/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/c49166d97a78fd068fc4fe02943dad97/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/aaronturas/.gradle/caches/transforms-3/14b3c7ff9bc3b46d8068b9514278113d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/59fa8301d53c71394684570edc8ef21d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/397b5701bb7a56a46e8a15f5da62e2e3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/d1326cc81925655942a0cd79010faecb/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/8a4db4509c38a749cb7a8bd7f471ebbb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/52641853f7fa10c6f2a0e515e20382f8/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/020244b9cdabe2fcb0027b815fc9caa8/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/926fd68cf9cb01b85378ec6662b0d4dd/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /home/aaronturas/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/2b200d4d3b881208509d018ba33eb6e6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/aaronturas/.gradle/caches/transforms-3/c8dfdad9ba1675646781e3501f7d309b/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/5da259097edf8da3b2548a3da8014cc2/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/aaronturas/.gradle/caches/transforms-3/6340fe10701247dcc96b0353a77826e4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/ffa621b045168f3978544764e72b6c93/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/aaronturas/.gradle/caches/transforms-3/b0c6dd9b0ab41e6ecf696c71b3d6a0be/transformed/gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/aaronturas/.gradle/caches/transforms-3/315f94e60f98aa5f021160b5393e3d23/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aaronturas/.gradle/caches/transforms-3/f14789d5846b9701d345f2179f361d29/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/74937b365b9da734d967fc12c08007f1/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/b051dea76aef71ad0797efc55cbff833/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/5d7f05a0bde2df67407aa808c6af5a64/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aaronturas/.gradle/caches/transforms-3/b1158679a36f44b87bb5426138a201f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/aaronturas/.gradle/caches/transforms-3/8568c11d6da6a25377c4d0e341983bf2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/0b0a237a3c01d4764bd717c24e34a6b5/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/aaronturas/.gradle/caches/transforms-3/7b2a5a3e78c2ef595cb0c83fb2a61599/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/bb56c8f8647b714447b022d0c7019178/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/ef80dcc1fa5209bc16b4a46c51b114b7/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/15f52d06e80eb4dc9e54b5a875209cc7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/2e60b2a2da90e0702d7456ba71948db7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/0d668bbb7f553fd780cc3ea32432440a/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.stetho:stetho:1.5.1] /home/aaronturas/.gradle/caches/transforms-3/9a6732870e989d974f9024dad7343e6b/transformed/stetho-1.5.1/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:8:5-25:19
+MERGED from [com.google.android.material:material:1.6.0] /home/aaronturas/.gradle/caches/transforms-3/a85cf5f786302e7c88df88cb95731c2f/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] /home/aaronturas/.gradle/caches/transforms-3/a85cf5f786302e7c88df88cb95731c2f/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/aaronturas/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/aaronturas/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/aaronturas/.gradle/caches/transforms-3/c270e62538eeddd5ebe1ba8e5cf6c0c7/transformed/glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/aaronturas/.gradle/caches/transforms-3/c270e62538eeddd5ebe1ba8e5cf6c0c7/transformed/glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /home/aaronturas/.gradle/caches/transforms-3/c1fddf7155d627511a2079516755d685/transformed/stetho-okhttp3-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /home/aaronturas/.gradle/caches/transforms-3/c1fddf7155d627511a2079516755d685/transformed/stetho-okhttp3-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/aaronturas/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/aaronturas/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/aaronturas/.gradle/caches/transforms-3/b0c6dd9b0ab41e6ecf696c71b3d6a0be/transformed/gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/aaronturas/.gradle/caches/transforms-3/b0c6dd9b0ab41e6ecf696c71b3d6a0be/transformed/gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aaronturas/.gradle/caches/transforms-3/f14789d5846b9701d345f2179f361d29/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aaronturas/.gradle/caches/transforms-3/f14789d5846b9701d345f2179f361d29/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/74937b365b9da734d967fc12c08007f1/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/74937b365b9da734d967fc12c08007f1/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/b051dea76aef71ad0797efc55cbff833/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/b051dea76aef71ad0797efc55cbff833/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.facebook.stetho:stetho:1.5.1] /home/aaronturas/.gradle/caches/transforms-3/9a6732870e989d974f9024dad7343e6b/transformed/stetho-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] /home/aaronturas/.gradle/caches/transforms-3/9a6732870e989d974f9024dad7343e6b/transformed/stetho-1.5.1/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/aaronturas/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.codepath.bestsellerlistapp.MainActivity
+ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:17:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] /home/aaronturas/.gradle/caches/transforms-3/ae033c2ffd6a9372e984f2fcf605934e/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/aaronturas/.gradle/caches/transforms-3/ae033c2ffd6a9372e984f2fcf605934e/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.6.0] /home/aaronturas/.gradle/caches/transforms-3/a85cf5f786302e7c88df88cb95731c2f/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /home/aaronturas/.gradle/caches/transforms-3/a85cf5f786302e7c88df88cb95731c2f/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/aaronturas/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/aaronturas/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.codepath.libraries:asynchttpclient:2.2.0] /home/aaronturas/.gradle/caches/transforms-3/bbfaf3812e5006159d1e33846030a17b/transformed/asynchttpclient-2.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:asynchttpclient:2.2.0] /home/aaronturas/.gradle/caches/transforms-3/bbfaf3812e5006159d1e33846030a17b/transformed/asynchttpclient-2.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /home/aaronturas/.gradle/caches/transforms-3/07c7f1074054558b72e7eb340ed69331/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /home/aaronturas/.gradle/caches/transforms-3/07c7f1074054558b72e7eb340ed69331/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/aaronturas/.gradle/caches/transforms-3/c270e62538eeddd5ebe1ba8e5cf6c0c7/transformed/glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/aaronturas/.gradle/caches/transforms-3/c270e62538eeddd5ebe1ba8e5cf6c0c7/transformed/glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /home/aaronturas/.gradle/caches/transforms-3/c1fddf7155d627511a2079516755d685/transformed/stetho-okhttp3-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /home/aaronturas/.gradle/caches/transforms-3/c1fddf7155d627511a2079516755d685/transformed/stetho-okhttp3-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/804df020b7620b490565a3aab0c66b91/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/804df020b7620b490565a3aab0c66b91/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/aaronturas/.gradle/caches/transforms-3/b3aa350f4ac90edfb40e0da537b8925b/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/aaronturas/.gradle/caches/transforms-3/b3aa350f4ac90edfb40e0da537b8925b/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/aaronturas/.gradle/caches/transforms-3/ae42faee643e370230ec532e9341306c/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/aaronturas/.gradle/caches/transforms-3/ae42faee643e370230ec532e9341306c/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/aaronturas/.gradle/caches/transforms-3/cda1d3a33cb9107cf1825fe282793c1f/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/aaronturas/.gradle/caches/transforms-3/cda1d3a33cb9107cf1825fe282793c1f/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/8a43ea73af7a62a9f12fae4925d1fff8/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/8a43ea73af7a62a9f12fae4925d1fff8/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/aaronturas/.gradle/caches/transforms-3/c1e67adaf8e753ede21de05035a7ba1f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/aaronturas/.gradle/caches/transforms-3/c1e67adaf8e753ede21de05035a7ba1f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/42a1242bd9b281b95b98166e5c9d62ed/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/42a1242bd9b281b95b98166e5c9d62ed/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/c49166d97a78fd068fc4fe02943dad97/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/c49166d97a78fd068fc4fe02943dad97/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/aaronturas/.gradle/caches/transforms-3/14b3c7ff9bc3b46d8068b9514278113d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/aaronturas/.gradle/caches/transforms-3/14b3c7ff9bc3b46d8068b9514278113d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/59fa8301d53c71394684570edc8ef21d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/59fa8301d53c71394684570edc8ef21d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/397b5701bb7a56a46e8a15f5da62e2e3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/397b5701bb7a56a46e8a15f5da62e2e3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/d1326cc81925655942a0cd79010faecb/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/d1326cc81925655942a0cd79010faecb/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/8a4db4509c38a749cb7a8bd7f471ebbb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/8a4db4509c38a749cb7a8bd7f471ebbb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/52641853f7fa10c6f2a0e515e20382f8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/52641853f7fa10c6f2a0e515e20382f8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/020244b9cdabe2fcb0027b815fc9caa8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/020244b9cdabe2fcb0027b815fc9caa8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/926fd68cf9cb01b85378ec6662b0d4dd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/926fd68cf9cb01b85378ec6662b0d4dd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/aaronturas/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/aaronturas/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/2b200d4d3b881208509d018ba33eb6e6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/2b200d4d3b881208509d018ba33eb6e6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/aaronturas/.gradle/caches/transforms-3/c8dfdad9ba1675646781e3501f7d309b/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/aaronturas/.gradle/caches/transforms-3/c8dfdad9ba1675646781e3501f7d309b/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/5da259097edf8da3b2548a3da8014cc2/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/5da259097edf8da3b2548a3da8014cc2/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/aaronturas/.gradle/caches/transforms-3/6340fe10701247dcc96b0353a77826e4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/aaronturas/.gradle/caches/transforms-3/6340fe10701247dcc96b0353a77826e4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/ffa621b045168f3978544764e72b6c93/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/ffa621b045168f3978544764e72b6c93/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/aaronturas/.gradle/caches/transforms-3/b0c6dd9b0ab41e6ecf696c71b3d6a0be/transformed/gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/aaronturas/.gradle/caches/transforms-3/b0c6dd9b0ab41e6ecf696c71b3d6a0be/transformed/gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/aaronturas/.gradle/caches/transforms-3/315f94e60f98aa5f021160b5393e3d23/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/aaronturas/.gradle/caches/transforms-3/315f94e60f98aa5f021160b5393e3d23/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aaronturas/.gradle/caches/transforms-3/f14789d5846b9701d345f2179f361d29/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/aaronturas/.gradle/caches/transforms-3/f14789d5846b9701d345f2179f361d29/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/74937b365b9da734d967fc12c08007f1/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/74937b365b9da734d967fc12c08007f1/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/b051dea76aef71ad0797efc55cbff833/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/b051dea76aef71ad0797efc55cbff833/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/5d7f05a0bde2df67407aa808c6af5a64/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/5d7f05a0bde2df67407aa808c6af5a64/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aaronturas/.gradle/caches/transforms-3/b1158679a36f44b87bb5426138a201f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/aaronturas/.gradle/caches/transforms-3/b1158679a36f44b87bb5426138a201f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/aaronturas/.gradle/caches/transforms-3/8568c11d6da6a25377c4d0e341983bf2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/aaronturas/.gradle/caches/transforms-3/8568c11d6da6a25377c4d0e341983bf2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/0b0a237a3c01d4764bd717c24e34a6b5/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/0b0a237a3c01d4764bd717c24e34a6b5/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/aaronturas/.gradle/caches/transforms-3/7b2a5a3e78c2ef595cb0c83fb2a61599/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/aaronturas/.gradle/caches/transforms-3/7b2a5a3e78c2ef595cb0c83fb2a61599/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/bb56c8f8647b714447b022d0c7019178/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/bb56c8f8647b714447b022d0c7019178/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/ef80dcc1fa5209bc16b4a46c51b114b7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/ef80dcc1fa5209bc16b4a46c51b114b7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/15f52d06e80eb4dc9e54b5a875209cc7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/15f52d06e80eb4dc9e54b5a875209cc7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/2e60b2a2da90e0702d7456ba71948db7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/2e60b2a2da90e0702d7456ba71948db7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/0d668bbb7f553fd780cc3ea32432440a/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/aaronturas/.gradle/caches/transforms-3/0d668bbb7f553fd780cc3ea32432440a/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] /home/aaronturas/.gradle/caches/transforms-3/9a6732870e989d974f9024dad7343e6b/transformed/stetho-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] /home/aaronturas/.gradle/caches/transforms-3/9a6732870e989d974f9024dad7343e6b/transformed/stetho-1.5.1/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+		ADDED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aaronturas/AndroidStudioProjects/NY_Times_API/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/74937b365b9da734d967fc12c08007f1/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/74937b365b9da734d967fc12c08007f1/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/b051dea76aef71ad0797efc55cbff833/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/b051dea76aef71ad0797efc55cbff833/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/aaronturas/.gradle/caches/transforms-3/137e67a0d40e55999d753db94fe512b6/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/74937b365b9da734d967fc12c08007f1/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/74937b365b9da734d967fc12c08007f1/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/aaronturas/.gradle/caches/transforms-3/74937b365b9da734d967fc12c08007f1/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
