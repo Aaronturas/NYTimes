@@ -31,7 +31,7 @@ The following **optional** features are implemented to help develop this app int
 
 Here's a walkthrough of implemented user stories:
 
-<img src='NYTimes.gif' title='NYTimes' width='' alt='Video Walkthrough' width="1000" height="1000"/>
+<img src='NYTimes.gif' title='NYTimes' width='' alt='Video Walkthrough' width="750" height="750"/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with **Screen Record in Android Studio**  
